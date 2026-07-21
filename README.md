@@ -3,6 +3,8 @@
 Material UI components shown **in situation** — composed into realistic screens rather than
 listed in isolation. Built with React 19, MUI v9, TypeScript and Vite.
 
+**Live demo:** [slallem-mui-showcase.vercel.app](https://slallem-mui-showcase.vercel.app/)
+
 ## What's inside
 
 | Page | What it demonstrates |
